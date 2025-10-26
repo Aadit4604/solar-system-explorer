@@ -42,7 +42,29 @@ An interactive 3D visualization of our Solar System built with Three.js
 
 ## 📸 Screenshots
 
-![Solar System View](https://your-screenshot-url.png)
+![Mercury overview](<../first ever project done LESS GOO/Mercury overview.png>)
+![Mercury](<../first ever project done LESS GOO/Mercury.png>)
+
+![Venus overview](<../first ever project done LESS GOO/Venus overview.png>)
+![Venus](<../first ever project done LESS GOO/Venus.png>)
+
+![Earth overview](<../first ever project done LESS GOO/Earth overview.png>)
+![Earth](<../first ever project done LESS GOO/Earth.png>)
+
+![Mars overview](<../first ever project done LESS GOO/Mars overview.png>)
+![Mars](<../first ever project done LESS GOO/Mars.png>)
+
+![Jupiter overview](<../first ever project done LESS GOO/Jupiter overview.png>)
+![Jupiter](<../first ever project done LESS GOO/Jupiter.png>)
+
+![Saturn overview](<../first ever project done LESS GOO/Saturn overview.png>)
+![Saturn](<../first ever project done LESS GOO/Saturn.png>)
+
+![Uranus overview](<../first ever project done LESS GOO/Uranus overview.png>)
+![Uranus](<../first ever project done LESS GOO/Uranus.png>)
+
+![Neptune overview](<../first ever project done LESS GOO/Neptune overview.png>)
+![Neptune](<../first ever project done LESS GOO/Neptune.png>)
 
 ## 🤝 Contributing
 

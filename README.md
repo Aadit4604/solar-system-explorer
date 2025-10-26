@@ -41,6 +41,7 @@ An interactive 3D visualization of our Solar System built with Three.js
 [View Live Demo](https://YOUR-USERNAME.github.io/solar-system-explorer/)
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Solar System" src="https://github.com/user-attachments/assets/5ed78ce7-31a3-426c-ad6f-150470e12e06" />
 
 ![Mercury overview](<../first ever project done LESS GOO/Mercury overview.png>)
 ![Mercury](<../first ever project done LESS GOO/Mercury.png>)

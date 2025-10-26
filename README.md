@@ -38,7 +38,7 @@ An interactive 3D visualization of our Solar System built with Three.js
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://YOUR-USERNAME.github.io/solar-system-explorer/)
+[View Live Demo](https://youtu.be/FFXdmsoVfrQ)
 
 ## 📸 Screenshots
 Solar System overview
